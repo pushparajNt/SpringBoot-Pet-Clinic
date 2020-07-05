@@ -1,0 +1,13 @@
+package guru.springframework.petclinic;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Spring5WebApp1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Spring5WebApp1Application.class, args);
+	}
+
+}
